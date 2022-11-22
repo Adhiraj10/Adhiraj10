@@ -2,6 +2,5 @@
   <img src="https://lanyard.cnrad.dev/api/451442660490739722" alt="Discord Profile" align="right" width="50%" />
 </a>
 
-
-
-I Write Code.
+- Writing Code
+- Playing Games
